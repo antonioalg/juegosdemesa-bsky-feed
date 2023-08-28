@@ -150,3 +150,8 @@ To implement a topical feed, you might filter the algorithm for posts and pass t
 
 - [Python](https://github.com/MarshalX/bluesky-feed-generator) - [@MarshalX](https://github.com/MarshalX)
 - [Ruby](https://github.com/mackuba/bluesky-feeds-rb) - [@mackuba](https://github.com/mackuba)
+
+
+## Data
+
+URL: http://localhost:3000/xrpc/app.bsky.feed.getFeedSkeleton?feed=at://did:example:alice/app.bsky.feed.generator/juegosdemesa
